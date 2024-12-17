@@ -46,10 +46,16 @@ Follow the on-screen instructions to navigate through the dungeon.
 
 ## Controls
 
-- **Arrow Keys:** Move the player character.
-- **S:** Save the game.
-- **L:** Load a saved game.
-- **Q:** Quit the game.
+- move <direction>: Move to a different room if possible.
+- look: Display the description of the current room and items or creatures in it.
+- inventory: List items the player has collected.
+- pickup <item>: Add an item to the inventory if present in the room.
+- attack: Fight a creature if present in the room.
+  
+### Menu Commands:
+- save <filepath> : saves the current state in to the given file
+- load <filepath> : loads the state from the given file
+- exit
 
 ## Objectives
 
