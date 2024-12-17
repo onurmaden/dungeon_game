@@ -1,0 +1,6 @@
+# room_id "description" up down left right "item" "creature"
+0 "You are in a dimly lit dungeon cell. Moss covers the walls." - 1 - - "rusty_sword" "weak_rat"
+1 "You stand in a hallway with torches on the walls. The air smells musty." 0 3 2 - "health_potion" "-"
+2 "A small storage closet filled with old crates." - 3 1 0 "-" "imp"
+3 "A guard room with a broken table and worn chairs." 1 - 0 4 "broken_axe" "goblin"
+4 "A bright room lit by glowing musooms. You feel a strange energy." - - - - "diamond" "lucifer"

@@ -1,0 +1,5 @@
+# name desc weight durability value
+rusty_sword "A rusty old sword. Not very sharp." 5 3 10
+health_potion "A red potion that restores health." 1 -1 15
+broken_axe "An axe with a cracked handle." 5 2 20
+diamond "A shiny diamond." 4 3 100

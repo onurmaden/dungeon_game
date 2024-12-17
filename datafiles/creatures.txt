@@ -1,0 +1,5 @@
+# Format: name description health strength
+weak_rat "A small weak rat." 5 1
+goblin "A small green goblin with a rusty knife." 10 3
+imp "A disgusting looking fire imp" 12 4
+lucifer "The devil himself" 20 5
